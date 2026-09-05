@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the manuscript via the preferred citation below."
+title: "FPSCP Capacity-Aware Completion Bound Reproducibility Package"
+type: software
+authors:
+  - family-names: "Yonezu"
+    given-names: "Ryutaro"
+    affiliation: "Independent Researcher"
+version: "1.0.0"
+date-released: "2026-09-05"
+license: MIT
+abstract: >-
+  Reproducibility materials for an admissible cargo-capacity completion bound
+  specialized to exact Fixed-Permutation Splitting and Charging Problem
+  (FPSCP) decoding with FP-FLA, including source-matched benchmarks,
+  synthetic stress validation, and direct-upstream compatibility checks.
+keywords:
+  - electric vehicle routing
+  - FPSCP
+  - FP-FLA
+  - labeling algorithm
+  - completion bound
+  - exact decoding
+  - vehicle routing
+preferred-citation:
+  type: article
+  title: "Capacity-Aware Completion Bounds for Exact Fixed-Permutation Electric Vehicle Routing Decoding"
+  authors:
+    - family-names: "Yonezu"
+      given-names: "Ryutaro"
+      affiliation: "Independent Researcher"
+  year: 2026

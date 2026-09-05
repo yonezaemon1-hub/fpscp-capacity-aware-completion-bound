@@ -1,0 +1,28 @@
+{
+  "creators": [
+    {
+      "affiliation": "Independent Researcher",
+      "name": "Yonezu, Ryutaro"
+    }
+  ],
+  "title": "Capacity-Aware Completion Bounds for Exact Fixed-Permutation Electric Vehicle Routing Decoding - software and source package",
+  "version": "v1.0.0",
+  "access_right": "open",
+  "license": "mit",
+  "upload_type": "software",
+  "keywords": [
+    "electric vehicle routing",
+    "FPSCP",
+    "FP-FLA",
+    "labeling algorithm",
+    "completion bound",
+    "exact decoding",
+    "vehicle routing"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.48550/arXiv.2605.26816",
+      "relation": "references"
+    }
+  ]
+}

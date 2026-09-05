@@ -1,0 +1,3 @@
+The preprint "Capacity-Aware Completion Bounds for Exact Fixed-Permutation Electric Vehicle Routing Decoding" by Ryutaro Yonezu is released under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+
+License information: https://creativecommons.org/licenses/by/4.0/
