@@ -8,6 +8,8 @@ authors:
     affiliation: "Independent Researcher"
 version: "1.0.0"
 date-released: "2026-09-05"
+doi: "10.5281/zenodo.22346442"
+repository-code: "https://github.com/yonezaemon1-hub/fpscp-capacity-aware-completion-bound"
 license: MIT
 abstract: >-
   Reproducibility materials for an admissible cargo-capacity completion bound
@@ -30,3 +32,4 @@ preferred-citation:
       given-names: "Ryutaro"
       affiliation: "Independent Researcher"
   year: 2026
+  doi: "10.5281/zenodo.22346669"
