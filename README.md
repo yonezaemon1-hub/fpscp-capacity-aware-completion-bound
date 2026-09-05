@@ -1,10 +1,15 @@
 # Capacity-Aware Completion Bounds for Exact Fixed-Permutation EV Routing Decoding
 
-Preprint candidate, September 5, 2026. Author: Ryutaro Yonezu (Independent Researcher).
+Published preprint, September 5, 2026. Author: Ryutaro Yonezu (Independent Researcher).
+
+## DOI
+
+- Paper (Zenodo preprint, version v1): https://doi.org/10.5281/zenodo.22346669
+- Software / reproducibility package (Zenodo, v1.0.0): https://doi.org/10.5281/zenodo.22346442
 
 ## Status
 
-This package is a reproducible preprint candidate and is **not peer reviewed**. The claims are intentionally narrow: completion bounding is established in labeling algorithms; this work specializes an admissible cargo-capacity relaxation to the recently introduced FPSCP / FP-FLA exact decoder.
+This work is published as an open Zenodo preprint and is **not peer reviewed**. The claims are intentionally narrow: completion bounding is established in labeling algorithms; this work specializes an admissible cargo-capacity relaxation to the recently introduced FPSCP / FP-FLA exact decoder.
 
 ## Main verified results
 
@@ -39,7 +44,7 @@ An earlier experimental bound used hidden `route_start` history while the FP-FLA
 ## Files
 
 - `paper.tex` - LaTeX source.
-- `Yonezu_2026_Capacity_Aware_Completion_Bounds_EV_Routing.pdf` - rendered preprint candidate.
+- `Yonezu_2026_Capacity_Aware_Completion_Bounds_EV_Routing.pdf` - rendered preprint.
 - `artifact/capacity_aware_fpfla_benchmark.cpp` - public benchmark harness and exact decoder variants.
 - `artifact/capacity_aware_fpfla_stress.cpp` - synthetic exactness stress harness.
 - `artifact/public_results_240.csv` - raw public results.
