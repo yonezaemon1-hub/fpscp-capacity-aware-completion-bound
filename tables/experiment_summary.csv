@@ -1,0 +1,9 @@
+evidence_block,cases,matches,primary_metric,value,note
+primary_public_benchmark,240,240,median_speedup_including_preprocess,14.407042527525732,source-matched FP-FLA reference
+primary_public_benchmark,240,240,bootstrap_95_ci_low,12.621284165070355,speedup CI
+primary_public_benchmark,240,240,bootstrap_95_ci_high,16.002643008301398,speedup CI
+primary_public_benchmark,240,240,median_pair_reduction,0.7323940768010078,charging/reset-node pair enumeration
+primary_public_benchmark,240,240,nonoptimal_initial_incumbents,131,cases
+synthetic_stress,996,996,objective_mismatches,0,feasible synthetic stress cases
+direct_upstream_gate,340,340,median_external_speedup_equivalent,5.135116766822724,different lazy split-DAG wrapper; do not pool with primary benchmark
+cleanroom_check,34,34,objective_mismatches,0,retained clean-room checks
