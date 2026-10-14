@@ -92,3 +92,7 @@ Compile with a modern C++20 compiler, e.g. `g++ -O3 -std=c++20`. Update the benc
 
 See `PRIOR_ART_AUDIT.md`. The novelty statement is deliberately narrow and the
 search result is not presented as proof of priority.
+
+## Research inquiries
+
+For questions about this research, reproduction, or collaboration, contact Yonezu Research Lab: [yonezaemon1+research@gmail.com](mailto:yonezaemon1+research@gmail.com).
